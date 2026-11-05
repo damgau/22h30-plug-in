@@ -1,0 +1,9 @@
+{
+  "identifiant": "com.damgau.22h30",
+  "version": "0.1.0",
+  "date": "2026-11-05",
+  "notes": "Première version : le panneau s'ouvre et se met à jour.",
+  "zip": "versions/22h30-plug-in-0.1.0.zip",
+  "sha256": "90d167ebc48542d72c56e2587ed588b2eebf836c64e8421379f27906d98b230e",
+  "redemarrer_premiere": false
+}
