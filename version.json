@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "date": "2026-11-05",
-  "notes": "Essai de Python : Node.js est mis de côté avant de charger Python (échec « node:module » de la 0.2.0).",
-  "zip": "versions/22h30-plug-in-0.2.1.zip",
-  "sha256": "f45c4d5b0b471e605af9f1393fbe29703ae2e8619aeb4cc5808becc445697e06",
+  "notes": "Nouveau : la fiche du jour tourne dans le panneau. Le conducteur (Téléchargements) et les sujets (dossier du jour) sont trouvés tout seuls, avec des garde-fous.",
+  "zip": "versions/22h30-plug-in-0.3.0.zip",
+  "sha256": "b1348e45ecfd783125160907ea725c5841d9997a57ea68364c538d07c537d0b4",
   "redemarrer_premiere": false
 }
