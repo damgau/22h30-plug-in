@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "date": "2026-11-05",
-  "notes": "Nouveau : la fiche du jour tourne dans le panneau. Le conducteur (Téléchargements) et les sujets (dossier du jour) sont trouvés tout seuls, avec des garde-fous.",
-  "zip": "versions/22h30-plug-in-0.3.0.zip",
-  "sha256": "b1348e45ecfd783125160907ea725c5841d9997a57ea68364c538d07c537d0b4",
+  "notes": "Correction : le conducteur « Conduites 22h30.xlsx » (avec une espace) est maintenant trouvé dans Téléchargements.",
+  "zip": "versions/22h30-plug-in-0.3.1.zip",
+  "sha256": "6473adc5c9775846ced08ce0eccffbfb9bdb1d7f2a1b43ffbbd1850aa2362584",
   "redemarrer_premiere": false
 }
