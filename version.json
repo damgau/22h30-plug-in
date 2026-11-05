@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "date": "2026-11-05",
-  "notes": "Correction : le conducteur « Conduites 22h30.xlsx » (avec une espace) est maintenant trouvé dans Téléchargements.",
-  "zip": "versions/22h30-plug-in-0.3.1.zip",
-  "sha256": "6473adc5c9775846ced08ce0eccffbfb9bdb1d7f2a1b43ffbbd1850aa2362584",
+  "notes": "Corrections : le nombre de points à vérifier compte aussi ceux de chaque sujet ; la date s'écrit en toutes lettres.",
+  "zip": "versions/22h30-plug-in-0.3.2.zip",
+  "sha256": "4360b55c26a9e36dc3bd41cce944fc96e8dd680491ab35174a63071c52076fbf",
   "redemarrer_premiere": false
 }
