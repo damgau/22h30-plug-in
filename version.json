@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "date": "2026-11-05",
-  "notes": "Nouveau : bouton « Ouvrir la fiche du jour » (la fiche se met à jour avec le panneau) et lien « Essai : Python dans le panneau ».",
-  "zip": "versions/22h30-plug-in-0.2.0.zip",
-  "sha256": "4bb689429b3dbe681e9bce11b8733b9eb4cc32a239baf23cfd35a04138370a3e",
+  "notes": "Essai de Python : Node.js est mis de côté avant de charger Python (échec « node:module » de la 0.2.0).",
+  "zip": "versions/22h30-plug-in-0.2.1.zip",
+  "sha256": "f45c4d5b0b471e605af9f1393fbe29703ae2e8619aeb4cc5808becc445697e06",
   "redemarrer_premiere": false
 }
