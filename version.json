@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "date": "2026-11-06",
-  "notes": "Fiche : liens « Chercher sur le site » ouverts dans le navigateur ; dernière fiche rechargée à l'ouverture, avec ce qui a changé depuis ; PDF et MXF de Notélé reliés ; signature dans l'ordre de la TV ; alerte si le code AVC-MAT du conducteur est mal écrit.",
-  "zip": "versions/22h30-plug-in-0.3.3.zip",
-  "sha256": "5b5b5c89531160e010ec51b71bf8bdfc51e2c6fb596218d390de3ea804a15a1e",
+  "notes": "Nom d'export : le panneau vérifie le nom de la séquence maître et propose de la renommer au code du jour (bouton « Nommer ») ; rappel du nom exact du fichier ; export mal nommé signalé dans le dossier Exports.",
+  "zip": "versions/22h30-plug-in-0.3.4.zip",
+  "sha256": "ed18eda83546ad1da32b4e639f57ec08ffe365574527d4d758288dba02a8e530",
   "redemarrer_premiere": false
 }
