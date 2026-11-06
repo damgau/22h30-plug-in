@@ -1,9 +1,9 @@
 {
   "identifiant": "com.damgau.22h30",
-  "version": "0.3.2",
-  "date": "2026-11-05",
-  "notes": "Corrections : le nombre de points à vérifier compte aussi ceux de chaque sujet ; la date s'écrit en toutes lettres.",
-  "zip": "versions/22h30-plug-in-0.3.2.zip",
-  "sha256": "4360b55c26a9e36dc3bd41cce944fc96e8dd680491ab35174a63071c52076fbf",
+  "version": "0.3.3",
+  "date": "2026-11-06",
+  "notes": "Fiche : liens « Chercher sur le site » ouverts dans le navigateur ; dernière fiche rechargée à l'ouverture, avec ce qui a changé depuis ; PDF et MXF de Notélé reliés ; signature dans l'ordre de la TV ; alerte si le code AVC-MAT du conducteur est mal écrit.",
+  "zip": "versions/22h30-plug-in-0.3.3.zip",
+  "sha256": "5b5b5c89531160e010ec51b71bf8bdfc51e2c6fb596218d390de3ea804a15a1e",
   "redemarrer_premiere": false
 }
